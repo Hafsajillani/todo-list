@@ -1,9 +1,9 @@
 const todoList = [{
   name: 'make dinner',
-  dueDate: '2022-12-22'
+  dueDate: '2024-1-22'
 }, {
   name: 'wash dishes',
-  dueDate: '2022-12-22'
+  dueDate: '2024-3-22'
 }];
 
 renderTodoList();
